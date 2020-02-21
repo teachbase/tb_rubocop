@@ -1,4 +1,6 @@
-require "rubocop/teachbase/version"
+# frozen_string_literal: true
+
+require 'rubocop/teachbase/version'
 
 module RuboCop
   module Teachbase
@@ -11,4 +13,3 @@ module RuboCop
     private_constant(:CONFIG_DEFAULT, :PROJECT_ROOT)
   end
 end
-

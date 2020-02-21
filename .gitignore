@@ -9,6 +9,7 @@
 .idea
 .vscode
 .pryrc
+.rakeTasks
 
 # rspec failure tracking
 .rspec_status

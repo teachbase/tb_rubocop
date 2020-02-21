@@ -1,1 +1,9 @@
-# Write it!
+---
+AllCops:
+  RSpec:
+    Patterns:
+      - _spec.rb
+      - "(?:^|/)spec/"
+RSpec/HashInBlockStyle:
+  Description: 'Check that inside braces block use Hash[]'
+  Enabled: true

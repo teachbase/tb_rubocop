@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
   spec.email         = ['skiline.alex@gmail.com']
 
   spec.summary       = 'Teachbase style rules'
-  spec.homepage      = 'https://teachbase.ru'
+  spec.homepage      = 'https://github.com/teachbase/tb_rubocop'
   spec.license       = 'MIT'
 
   # Specify which files should be added to the gem when it is released.
